@@ -16,6 +16,7 @@ import java.util.List;
  * @author Ranga Lankathilaka
  */
 @RestController
+@CrossOrigin
 @RequestMapping("api/v1/customers")
 public class CustomerController {
 
