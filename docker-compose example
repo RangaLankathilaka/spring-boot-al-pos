@@ -1,0 +1,6 @@
+docker-compose build
+docker-compose stop
+docker-compose up imageName1
+docker-compose up imageName2
+
+
